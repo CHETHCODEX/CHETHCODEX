@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/karthiksai15/karthiksai15/main/assets/banner.gif"/>
 
-# Mopur Karthik Sai
+# CHETHAN S
 
-### Backend Engineer • Distributed Systems • AI Systems Developer
+### ServiceNow Analyst • Data Scientist • AI Systems Developer
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;AI+%2F+GenAI+Enthusiast;Building+Scalable+Backend+Platforms"/>
