@@ -4,40 +4,34 @@
 
 # CHETHAN S
 
-### ServiceNow Analyst • Data Scientist • AI Systems Developer
+### ServiceNow Developer • Machine Learning Engineer • AI Systems Builder
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;AI+%2F+GenAI+Enthusiast;Building+Scalable+Backend+Platforms"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=ServiceNow+CSA+%7C+CAD;Machine+Learning+Intern+at+ISRO;RAG+%7C+FastAPI+%7C+Vector+Search;Building+AI-Powered+Systems+for+IT+Operations"/>
 </p>
 
 <p align="center">
+  <a href="mailto:chethanschethu24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:karthiksai.m15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/chethan-s24">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/mopur-karthiksai-gb2023006582">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/CHETHCODEX">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/karthiksai15">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/GB2023006582/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/u/GB2023007270/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=karthiksai15&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/karthiksai15?style=for-the-badge&color=6366F1"/>
-
-<img src="https://img.shields.io/github/stars/karthiksai15?style=for-the-badge&color=A855F7"/>
-
+  <img src="https://komarev.com/ghpvc/?username=CHETHCODEX&style=for-the-badge&color=7C3AED"/>
+  <img src="https://img.shields.io/github/followers/CHETHCODEX?style=for-the-badge&color=6366F1"/>
+  <img src="https://img.shields.io/github/stars/CHETHCODEX?style=for-the-badge&color=A855F7"/>
 </p>
 
 <p align="center">
@@ -50,38 +44,43 @@
 
 # About
 
-Computer Science & Engineering Undergraduate at **GITAM Bengaluru** focused on building scalable backend systems, distributed architectures, event-driven platforms, and AI-powered applications.
+Computer Science & Engineering (IoT) undergraduate at **GITAM University, Bangalore**, focused on ServiceNow development, machine learning, RAG applications, and AI-powered IT systems.
 
-| Profile    | Details                                                |
-| ---------- | ------------------------------------------------------ |
-| Education  | B.Tech Computer Science & Engineering                  |
-| University | GITAM Bengaluru                                        |
-| CGPA       | 9.21                                                   |
-| Focus      | Backend Engineering & AI Systems                       |
-| Core Stack | Spring Boot, Kafka, Redis, AWS                         |
-| Interests  | Distributed Systems, Event-Driven Architectures, GenAI |
-| Goal       | Software Development Engineer (Backend + AI Systems)   |
+| Profile | Details |
+| --- | --- |
+| Education | B.Tech Computer Science & Engineering (IoT) |
+| University | GITAM University, Bangalore |
+| CGPA | 8.5 |
+| Current Role | Machine Learning Intern - URSC, ISRO |
+| Certifications | ServiceNow CSA & CAD; Cisco Networking Basics |
+| Focus | ServiceNow, Machine Learning & AI Systems |
+| Interests | RAG, Anomaly Detection, ITSM & Cloud Systems |
+| Goal | AI / ML Engineer and ServiceNow Developer |
 
 ---
 
 # Technology Stack
 
-### Languages, Frameworks, Databases, Cloud & Tooling
+### Languages, AI/ML, ServiceNow, Backend & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,kafka,aws,docker,linux,git,maven,idea,vscode,postman,python,fastapi,c&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css,postgres,mongodb,fastapi,react,nextjs,aws,docker,git,github,vscode&perline=9"/>
 </p>
 
 <p align="center">
-<b>Java</b> • <b>Spring Boot</b> • <b>Kafka</b> • <b>Redis</b> • <b>PostgreSQL</b> • <b>MongoDB</b> • <b>AWS</b> • <b>Docker</b> • <b>Linux</b>
+  <b>Python</b> • <b>Java</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>SQL</b> • <b>PostgreSQL</b> • <b>MongoDB</b> • <b>AWS</b> • <b>Docker</b>
 </p>
 
 <p align="center">
-<b>REST APIs</b> • <b>Microservices</b> • <b>JWT Authentication</b> • <b>System Design</b> • <b>Distributed Systems</b>
+  <b>ServiceNow CSA/CAD</b> • <b>Flow Designer</b> • <b>ITSM</b> • <b>Incident Management</b> • <b>Business Rules</b> • <b>Scripted REST APIs</b>
 </p>
 
 <p align="center">
-<b>RAG</b> • <b>LangChain</b> • <b>LLMs</b> • <b>AI Agents</b> • <b>MCP</b> • <b>Prompt Engineering</b>
+  <b>Machine Learning</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Scikit-learn</b> • <b>Time-Series Forecasting</b> • <b>Anomaly Detection</b>
+</p>
+
+<p align="center">
+  <b>RAG</b> • <b>LangChain</b> • <b>ChromaDB</b> • <b>Vector Databases</b> • <b>FastAPI</b> • <b>REST APIs</b> • <b>spaCy NLP</b>
 </p>
 
 ---
@@ -89,48 +88,78 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** focused on b
 # GitHub Analytics & Development Activity
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHETHCODEX&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETHCODEX&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=karthiksai15&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=CHETHCODEX&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# GitHub Trophies
+# Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karthiksai15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</p>
+### [CineWatch AI](https://cine-watch-chi.vercel.app/)
+
+AI-powered movie discovery platform using semantic vector search, Google Gemini embeddings, FastAPI, Next.js, and Supabase.
+
+- Built natural-language movie discovery using 768-dimensional embeddings and cosine similarity.
+- Developed REST APIs with Next.js/Node.js and FastAPI.
+- Reduced server memory usage from 600 MB to 30 MB.
+
+### [Bittu Chatbot - RAG Assistant](https://github.com/CHETHCODEX/BITTU_CHATBOT)
+
+Full-stack RAG assistant built with FastAPI, ChromaDB, and React.
+
+- Added PDF ingestion, semantic retrieval, and intent-based tool routing.
+- Achieved 92%+ retrieval accuracy for semantic queries.
+- Implemented multi-provider LLM failover and optimized retrieval latency.
+
+### [Walmart Sales Forecasting](https://github.com/CHETHCODEX)
+
+Data science project forecasting weekly sales across 45 stores and 81 departments.
+
+- Used ARIMA, Holt-Winters, Random Forest, and Linear Regression.
+- Performed EDA, correlation analysis, and holiday-impact assessment.
+- Best model achieved approximately $1,801 WMAE.
 
 ---
 
-# Contribution Activity
+# Experience
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksai15&theme=tokyo-night&hide_border=true"/>
-</p>
+### Machine Learning Intern — U R Rao Satellite Centre (URSC), ISRO
+
+**Jul 2026 - Present**
+
+- Contributing to a spacecraft telemetry anomaly-detection project.
+- Preprocessing satellite datasets and performing EDA and feature engineering using Python.
+
+### AI Intern & Core Module Team Member — PRAJNA
+
+**May 2026 - Jun 2026**
+
+- Built AI-powered Faculty Companion platform modules using TypeScript and AWS.
+- Developed dashboards to monitor faculty productivity, engagement, and KPIs.
+
+### SAC Member — IEEE Computer Society Bangalore Chapter
+
+**2024 - Present**
+
+- Core web-development contributor for the “I am PRO” internship website.
+- Organized hackathons, workshops, and technical sessions.
 
 ---
 
-# Coding Profiles
+# Achievements
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/u/GB2023006582/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+🏆 **Top 10 Finalist** — 24-Hour Open Hackathon among 150+ teams<br><br>
+💻 **IEEE Computer Society** — Bangalore SAC Member
 
-<a href="https://github.com/karthiksai15">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -138,15 +167,14 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** focused on b
 
 <div align="center">
 
-Backend Development<br>
-Distributed Systems<br>
-Event-Driven Architectures<br>
-Cloud Computing<br>
-AI / GenAI Systems
+ServiceNow Development<br>
+ITSM Automation<br>
+Machine Learning<br>
+RAG & Vector Search<br>
+Anomaly Detection<br>
+AI-Powered IT Operations
 
 </div>
-
----
 
 # Contribution Snake
 
@@ -158,7 +186,7 @@ AI / GenAI Systems
 
 <div align="center">
 
-*"Designing reliable distributed systems and building intelligent software that scales."*
+*"Building intelligent systems for resilient IT operations and real-world impact."*
 
 </div>
 
