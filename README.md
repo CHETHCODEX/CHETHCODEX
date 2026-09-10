@@ -36,18 +36,41 @@
 
 <br>
 
-<div>
+<div align="center">
 
-🎓 <font color="#38BDF8"><b>Senior CS Student at GITAM University</b></font> (<font color="#FACC15"><b>CGPA: 8.6 / 10</b></font>) specializing in AI, Backend Engineering & Data Analytics.  
-💼 <font color="#A855F7"><b>AI Intern & SME (Team Lead) at PRAJNA AI</b></font> (building AI faculty management on AWS serverless with Cognito, S3, & CDK).  
-☁️ Skilled in <font color="#34D399"><b>AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP</b></font>.  
-📊 <font color="#F43F5E"><b>Data Analyst</b></font> proficient in extracting actionable business insights using Python, SQL, DAX, and Power BI dashboards.  
-🏆 <font color="#FB923C"><b>Rank 25 / 600+</b></font> in GDG Cloud Kochi Code Vipassana | <font color="#FFA116"><b>270+ Solved on LeetCode</b></font> (100 Days Badge) | <b>Google Certified</b>.
+# Chethan S
+
+### AI/ML Developer • ServiceNow Developer • Cloud & ITSM Enthusiast
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Developer;ServiceNow+Developer;RAG+%7C+FastAPI+%7C+Vector+Databases+%7C+AWS;Machine+Learning+Intern+%40+ISRO;Building+AI+Powered+IT+Systems"/>
+</p>
+
+<p align="center">
+
+<a href="mailto:chethanschethu24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 </div>
-
-<br>
-
 ---
 
 
