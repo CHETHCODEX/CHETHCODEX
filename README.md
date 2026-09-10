@@ -4,44 +4,6 @@
   <img alt="CHETHCODEX's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
-    </td>
-    <td width="62%" align="left" valign="middle">
-      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/terminal.gif?v=8" width="100%" alt="Terminal Profile Header" />
-      <p align="left">
-        <b><font color="#94A3B8">You can also find me on ...</font></b>
-        <br><br>
-        <a href="https://www.linkedin.com/in/balaji-goondla-1ab412293" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="22" width="22" alt="LinkedIn" title="LinkedIn"/>
-        </a> &nbsp;&nbsp;&nbsp;
-        <a href="mailto:balajigoondla2005@gmail.com">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="22" width="22" alt="Gmail" title="Gmail"/>
-        </a> &nbsp;&nbsp;&nbsp;
-        <a href="https://leetcode.com/u/GB2023006872/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="22" width="22" alt="LeetCode" title="LeetCode"/>
-        </a> &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/GoondlaBalaji" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" height="22" width="22" alt="Portfolio" title="Portfolio"/>
-        </a> &nbsp;&nbsp;&nbsp;
-        <a href="https://www.instagram.com/balaji_196" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" height="22" width="22" alt="Instagram" title="Instagram"/>
-        </a> &nbsp;&nbsp;&nbsp;
-        <a href="https://t.me/GoondlaBalaji" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" height="22" width="22" alt="Telegram" title="Telegram"/>
-        </a> &nbsp;&nbsp;&nbsp;
-        <a href="https://discord.com/users/balaji_9696_47165" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" height="22" width="22" alt="Discord" title="Discord: balaji_9696_47165"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
 
 # Chethan S
