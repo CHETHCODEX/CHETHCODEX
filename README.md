@@ -4,9 +4,6 @@
   <img alt="CHETHCODEX's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/karthiksai15/karthiksai15/main/assets/banner.gif"/>
 
 # CHETHAN S
 
