@@ -38,7 +38,7 @@
 
 <div>
 
-🎓 <font color="#38BDF8"><b>Senior CS Student at GITAM University</b></font> (<font color="#FACC15"><b>CGPA: 9.12 / 10</b></font>) specializing in AI, Backend Engineering & Data Analytics.  
+🎓 <font color="#38BDF8"><b>Senior CS Student at GITAM University</b></font> (<font color="#FACC15"><b>CGPA: 8.6 / 10</b></font>) specializing in AI, Backend Engineering & Data Analytics.  
 💼 <font color="#A855F7"><b>AI Intern & SME (Team Lead) at PRAJNA AI</b></font> (building AI faculty management on AWS serverless with Cognito, S3, & CDK).  
 ☁️ Skilled in <font color="#34D399"><b>AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP</b></font>.  
 📊 <font color="#F43F5E"><b>Data Analyst</b></font> proficient in extracting actionable business insights using Python, SQL, DAX, and Power BI dashboards.  
