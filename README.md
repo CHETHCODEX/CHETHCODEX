@@ -4,8 +4,8 @@
   <img alt="CHETHCODEX's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<center># CHETHAN S</center>
 
-# CHETHAN S
 
 ### ServiceNow Developer • Machine Learning Engineer • AI Systems Builder
 
